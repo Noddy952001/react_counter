@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.counter{
+  margin-left: 30%;
+  font-size: 40px;
+}
+
+.btn{
+  font-size: 20px;
+  margin-left: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
